@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for an oportunity **to get in the tech market**
 
-- 💬 Ask me about **Front-end development, design and accessibility. Also about travels, tv shows, food and family!**
+- 💬 Ask me about **Web development, design and accessibility. Also about travels, tv shows, food and family!**
 
 - 📫 How to reach me **loucafumee@gmail.com**
 
