@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louise Carnevali</h1>
-<h3 align="center">Front-end dev in formation</h3>
+<h3 align="center">Web dev in formation</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
