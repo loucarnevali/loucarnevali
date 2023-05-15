@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web development, design and accessibility. Also about travels, tv shows, food and family!**
 
-- 📫 How to reach me **loucafumee@gmail.com**
+- 📫 How to reach me **carnevali.tech@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/louisecarnevali/?locale=en_US](https://www.linkedin.com/in/louisecarnevali/?locale=en_US)
 
