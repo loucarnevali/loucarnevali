@@ -1,26 +1,43 @@
 <h1 align="center">Hi 👋, I'm Louise Carnevali</h1>
-<h3 align="center">Web dev in formation</h3>
+<h3 align="center">Web developer in formation</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+ 🌱 I'm a very **disciplined** and **proactive** person
 
-- 🤝 I’m looking for an oportunity **to get in the tech market**
+ 🤝 I’m looking for an oportunity **to get in the tech market**
 
-- 💬 Ask me about **Web development, design and accessibility. Also about travels, tv shows, food and family!**
+ 💬 Ask me about **Web development, design and accessibility. Also about travels, tv shows, food and family!**
 
-- 📫 How to reach me **carnevali.tech@gmail.com**
+ ⚡ Fun fact **I was a nutritionist who fell in love with technology.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/louisecarnevali/?locale=en_US](https://www.linkedin.com/in/louisecarnevali/?locale=en_US)
+## 
 
-- ⚡ Fun fact **I was a nutritionist who fell in love with technology.**
+<div>
+  <h3 align="left">Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/louisecarnevali/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="mailto:carnevali.tech@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/louisecarnevali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/louisecarnevali/" height="30" width="40" /></a>
-</p>
+## 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loucarnevali&show_icons=true&locale=en&layout=compact" alt="loucarnevali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loucarnevali&" alt="loucarnevali" /></p>
+<div style="display:inline_block">
+  <h3 align="left">Languages and Tools:</h3>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BootStrap"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="CAnva"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="Codepen"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL"/>
+  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
+</div> <br>
+  
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=loucarnevali&show_icons=true&locale=en&layout=compact&theme=radical" alt="loucarnevali" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loucarnevali&show_icons=true&theme=radical&include_all_commits=true"
+</div>
