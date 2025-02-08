@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louise Carnevali</h1>
-<h3 align="center">Web developer in formation</h3>
+<h3 align="center">Fullstack Developer</h3>
 
  🌱 I'm a very **disciplined** and **proactive** person
 
